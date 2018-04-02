@@ -5,7 +5,6 @@ class Index
 {
     public function index()
     {
-        return __DIR__.'hha'.'fwfwf';
-        return __DIR__.'hha'.'fwfwf';
+        return __DIR__;
     }
 }
