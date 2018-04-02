@@ -5,6 +5,6 @@ class Index
 {
     public function index()
     {
-        return __DIR__;
+        return __DIR__.'fw232';
     }
 }
